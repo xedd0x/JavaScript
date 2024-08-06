@@ -1,6 +1,6 @@
 //Variables con const
 
-const disponible=0//Variable en const no pueden estar sin valor inicial
+const disponible=0;//Variable en const no pueden estar sin valor inicial
 
 const producto='Audifonos Gamer'; // variable con valor
 

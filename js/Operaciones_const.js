@@ -1,4 +1,4 @@
-const nombre='Josue Vargas'
+const nombre='Josue Vargas';
 const numero1=100;
 const numero2=200;
 const numero3=200.20;  // se debe especifir el tipo de variable si se necesita los decimales
